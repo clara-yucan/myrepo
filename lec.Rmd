@@ -1,0 +1,12 @@
+---
+title: "9.28 Clara's practise"
+author: Clara
+output: html_document
+date: "Sep. 28th 2026"
+---
+
+# **This is a *practice***
+## ~~we learn somthing about R~~
+ ^[These are some .]1234567
+ 1=1
+ [RStudio](https://www.rstudio.com/)
